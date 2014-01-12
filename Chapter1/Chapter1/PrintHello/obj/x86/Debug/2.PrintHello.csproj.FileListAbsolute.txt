@@ -1,0 +1,2 @@
+C:\Documents and Settings\User\Desktop\Homeworks\Chapter1\Chapter1\PrintHello\obj\x86\Debug\PrintHello.exe
+C:\Documents and Settings\User\Desktop\Homeworks\Chapter1\Chapter1\PrintHello\obj\x86\Debug\PrintHello.pdb

@@ -1,0 +1,7 @@
+C:\Documents and Settings\User\Desktop\proekti\Chapter2\CompareFloatPoint\bin\Debug\CompareFloatPoint.exe
+C:\Documents and Settings\User\Desktop\proekti\Chapter2\CompareFloatPoint\bin\Debug\CompareFloatPoint.pdb
+C:\Documents and Settings\User\Desktop\proekti\Chapter2\CompareFloatPoint\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Desktop\proekti\Chapter2\CompareFloatPoint\obj\x86\Debug\CompareFloatPoint.exe
+C:\Documents and Settings\User\Desktop\proekti\Chapter2\CompareFloatPoint\obj\x86\Debug\CompareFloatPoint.pdb
+C:\Documents and Settings\User\Desktop\Homeworks\Chapter2\Chapter2\CompareFloatPoint\obj\x86\Debug\CompareFloatPoint.exe
+C:\Documents and Settings\User\Desktop\Homeworks\Chapter2\Chapter2\CompareFloatPoint\obj\x86\Debug\CompareFloatPoint.pdb

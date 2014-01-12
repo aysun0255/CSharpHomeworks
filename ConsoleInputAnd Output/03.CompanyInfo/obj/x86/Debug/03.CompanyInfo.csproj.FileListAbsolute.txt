@@ -1,0 +1,5 @@
+C:\Documents and Settings\User\Desktop\proekti\ConsoleInputAnd Output\03.CompanyInfo\bin\Debug\03.CompanyInfo.exe
+C:\Documents and Settings\User\Desktop\proekti\ConsoleInputAnd Output\03.CompanyInfo\bin\Debug\03.CompanyInfo.pdb
+C:\Documents and Settings\User\Desktop\proekti\ConsoleInputAnd Output\03.CompanyInfo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Desktop\proekti\ConsoleInputAnd Output\03.CompanyInfo\obj\x86\Debug\03.CompanyInfo.exe
+C:\Documents and Settings\User\Desktop\proekti\ConsoleInputAnd Output\03.CompanyInfo\obj\x86\Debug\03.CompanyInfo.pdb

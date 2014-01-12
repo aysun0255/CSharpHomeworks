@@ -1,0 +1,5 @@
+C:\Documents and Settings\User\Desktop\Homeworks\Loops\09-10.NthCatalanNumber\bin\Debug\09-10.NthCatalanNumber.exe
+C:\Documents and Settings\User\Desktop\Homeworks\Loops\09-10.NthCatalanNumber\bin\Debug\09-10.NthCatalanNumber.pdb
+C:\Documents and Settings\User\Desktop\Homeworks\Loops\09-10.NthCatalanNumber\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Desktop\Homeworks\Loops\09-10.NthCatalanNumber\obj\x86\Debug\09-10.NthCatalanNumber.exe
+C:\Documents and Settings\User\Desktop\Homeworks\Loops\09-10.NthCatalanNumber\obj\x86\Debug\09-10.NthCatalanNumber.pdb

@@ -1,0 +1,5 @@
+C:\Documents and Settings\User\Desktop\Homeworks\Loops\05.FactorielExpression\bin\Debug\05.FactorielExpression.exe
+C:\Documents and Settings\User\Desktop\Homeworks\Loops\05.FactorielExpression\bin\Debug\05.FactorielExpression.pdb
+C:\Documents and Settings\User\Desktop\Homeworks\Loops\05.FactorielExpression\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Desktop\Homeworks\Loops\05.FactorielExpression\obj\x86\Debug\05.FactorielExpression.exe
+C:\Documents and Settings\User\Desktop\Homeworks\Loops\05.FactorielExpression\obj\x86\Debug\05.FactorielExpression.pdb

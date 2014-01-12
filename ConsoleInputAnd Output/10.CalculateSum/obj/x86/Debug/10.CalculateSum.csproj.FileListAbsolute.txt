@@ -1,0 +1,5 @@
+C:\Documents and Settings\User\Desktop\proekti\ConsoleInputAnd Output\10.CalculateSum\bin\Debug\10.CalculateSum.exe
+C:\Documents and Settings\User\Desktop\proekti\ConsoleInputAnd Output\10.CalculateSum\bin\Debug\10.CalculateSum.pdb
+C:\Documents and Settings\User\Desktop\proekti\ConsoleInputAnd Output\10.CalculateSum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Desktop\proekti\ConsoleInputAnd Output\10.CalculateSum\obj\x86\Debug\10.CalculateSum.exe
+C:\Documents and Settings\User\Desktop\proekti\ConsoleInputAnd Output\10.CalculateSum\obj\x86\Debug\10.CalculateSum.pdb

@@ -1,0 +1,5 @@
+C:\Documents and Settings\User\Desktop\proekti\Chapter2\NullValues\bin\Debug\NullValues.exe
+C:\Documents and Settings\User\Desktop\proekti\Chapter2\NullValues\bin\Debug\NullValues.pdb
+C:\Documents and Settings\User\Desktop\proekti\Chapter2\NullValues\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Desktop\proekti\Chapter2\NullValues\obj\x86\Debug\NullValues.exe
+C:\Documents and Settings\User\Desktop\proekti\Chapter2\NullValues\obj\x86\Debug\NullValues.pdb

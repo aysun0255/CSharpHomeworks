@@ -1,0 +1,5 @@
+C:\Documents and Settings\User\Desktop\proekti\ConsoleInputAnd Output\11.FallingRocks\bin\Debug\11.FallingRocks.exe
+C:\Documents and Settings\User\Desktop\proekti\ConsoleInputAnd Output\11.FallingRocks\bin\Debug\11.FallingRocks.pdb
+C:\Documents and Settings\User\Desktop\proekti\ConsoleInputAnd Output\11.FallingRocks\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Desktop\proekti\ConsoleInputAnd Output\11.FallingRocks\obj\x86\Debug\11.FallingRocks.exe
+C:\Documents and Settings\User\Desktop\proekti\ConsoleInputAnd Output\11.FallingRocks\obj\x86\Debug\11.FallingRocks.pdb

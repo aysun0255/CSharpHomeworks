@@ -1,0 +1,5 @@
+C:\Documents and Settings\User\Desktop\proekti\ConsoleInputAnd Output\02.CirclePerimeterAndArea\bin\Debug\02.CirclePerimeterAndArea.exe
+C:\Documents and Settings\User\Desktop\proekti\ConsoleInputAnd Output\02.CirclePerimeterAndArea\bin\Debug\02.CirclePerimeterAndArea.pdb
+C:\Documents and Settings\User\Desktop\proekti\ConsoleInputAnd Output\02.CirclePerimeterAndArea\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Desktop\proekti\ConsoleInputAnd Output\02.CirclePerimeterAndArea\obj\x86\Debug\02.CirclePerimeterAndArea.exe
+C:\Documents and Settings\User\Desktop\proekti\ConsoleInputAnd Output\02.CirclePerimeterAndArea\obj\x86\Debug\02.CirclePerimeterAndArea.pdb

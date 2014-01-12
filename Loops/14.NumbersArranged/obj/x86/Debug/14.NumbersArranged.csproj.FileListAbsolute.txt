@@ -1,0 +1,5 @@
+C:\Documents and Settings\User\Desktop\Homeworks\Loops\14.NumbersArranged\bin\Debug\14.NumbersArranged.exe
+C:\Documents and Settings\User\Desktop\Homeworks\Loops\14.NumbersArranged\bin\Debug\14.NumbersArranged.pdb
+C:\Documents and Settings\User\Desktop\Homeworks\Loops\14.NumbersArranged\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Desktop\Homeworks\Loops\14.NumbersArranged\obj\x86\Debug\14.NumbersArranged.exe
+C:\Documents and Settings\User\Desktop\Homeworks\Loops\14.NumbersArranged\obj\x86\Debug\14.NumbersArranged.pdb

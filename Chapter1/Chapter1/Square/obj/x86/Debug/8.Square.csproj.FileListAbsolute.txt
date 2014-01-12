@@ -1,0 +1,5 @@
+C:\Documents and Settings\User\Desktop\Homeworks\Chapter1\Chapter1\Square\bin\Debug\Square.exe
+C:\Documents and Settings\User\Desktop\Homeworks\Chapter1\Chapter1\Square\bin\Debug\Square.pdb
+C:\Documents and Settings\User\Desktop\Homeworks\Chapter1\Chapter1\Square\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Desktop\Homeworks\Chapter1\Chapter1\Square\obj\x86\Debug\Square.exe
+C:\Documents and Settings\User\Desktop\Homeworks\Chapter1\Chapter1\Square\obj\x86\Debug\Square.pdb

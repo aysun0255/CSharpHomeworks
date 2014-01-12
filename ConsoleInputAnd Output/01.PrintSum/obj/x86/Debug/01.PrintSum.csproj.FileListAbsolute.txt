@@ -1,0 +1,5 @@
+C:\Documents and Settings\User\Desktop\proekti\ConsoleInputAnd Output\01.PrintSum\bin\Debug\01.PrintSum.exe
+C:\Documents and Settings\User\Desktop\proekti\ConsoleInputAnd Output\01.PrintSum\bin\Debug\01.PrintSum.pdb
+C:\Documents and Settings\User\Desktop\proekti\ConsoleInputAnd Output\01.PrintSum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Desktop\proekti\ConsoleInputAnd Output\01.PrintSum\obj\x86\Debug\01.PrintSum.exe
+C:\Documents and Settings\User\Desktop\proekti\ConsoleInputAnd Output\01.PrintSum\obj\x86\Debug\01.PrintSum.pdb

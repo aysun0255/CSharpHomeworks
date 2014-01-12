@@ -1,0 +1,5 @@
+C:\Documents and Settings\User\Desktop\Homeworks\Chapter1\Chapter1\FirstAndLastName\bin\Debug\FirstAndLastName.exe
+C:\Documents and Settings\User\Desktop\Homeworks\Chapter1\Chapter1\FirstAndLastName\bin\Debug\FirstAndLastName.pdb
+C:\Documents and Settings\User\Desktop\Homeworks\Chapter1\Chapter1\FirstAndLastName\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Desktop\Homeworks\Chapter1\Chapter1\FirstAndLastName\obj\x86\Debug\FirstAndLastName.exe
+C:\Documents and Settings\User\Desktop\Homeworks\Chapter1\Chapter1\FirstAndLastName\obj\x86\Debug\FirstAndLastName.pdb

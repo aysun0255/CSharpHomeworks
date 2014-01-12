@@ -1,0 +1,5 @@
+C:\Documents and Settings\User\Desktop\Homeworks\Loops\02.NotDivisible\bin\Debug\02.NotDivisible.exe
+C:\Documents and Settings\User\Desktop\Homeworks\Loops\02.NotDivisible\bin\Debug\02.NotDivisible.pdb
+C:\Documents and Settings\User\Desktop\Homeworks\Loops\02.NotDivisible\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Desktop\Homeworks\Loops\02.NotDivisible\obj\x86\Debug\02.NotDivisible.exe
+C:\Documents and Settings\User\Desktop\Homeworks\Loops\02.NotDivisible\obj\x86\Debug\02.NotDivisible.pdb

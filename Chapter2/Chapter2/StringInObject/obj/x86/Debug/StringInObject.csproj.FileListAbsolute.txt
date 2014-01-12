@@ -1,0 +1,5 @@
+C:\Documents and Settings\User\Desktop\proekti\Chapter2\StringInObject\bin\Debug\StringInObject.exe
+C:\Documents and Settings\User\Desktop\proekti\Chapter2\StringInObject\bin\Debug\StringInObject.pdb
+C:\Documents and Settings\User\Desktop\proekti\Chapter2\StringInObject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Desktop\proekti\Chapter2\StringInObject\obj\x86\Debug\StringInObject.exe
+C:\Documents and Settings\User\Desktop\proekti\Chapter2\StringInObject\obj\x86\Debug\StringInObject.pdb

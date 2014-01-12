@@ -1,0 +1,5 @@
+C:\Documents and Settings\User\Desktop\Homeworks\Loops\13.LastZero\bin\Debug\13.LastZero.exe
+C:\Documents and Settings\User\Desktop\Homeworks\Loops\13.LastZero\bin\Debug\13.LastZero.pdb
+C:\Documents and Settings\User\Desktop\Homeworks\Loops\13.LastZero\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Desktop\Homeworks\Loops\13.LastZero\obj\x86\Debug\13.LastZero.exe
+C:\Documents and Settings\User\Desktop\Homeworks\Loops\13.LastZero\obj\x86\Debug\13.LastZero.pdb

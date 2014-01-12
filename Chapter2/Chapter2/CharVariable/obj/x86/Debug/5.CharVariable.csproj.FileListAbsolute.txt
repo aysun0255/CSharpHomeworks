@@ -1,0 +1,7 @@
+C:\Documents and Settings\User\Desktop\proekti\Chapter2\CharVariable\obj\x86\Debug\CharVariable.exe
+C:\Documents and Settings\User\Desktop\proekti\Chapter2\CharVariable\obj\x86\Debug\CharVariable.pdb
+C:\Documents and Settings\User\Desktop\proekti\Chapter2\CharVariable\bin\Debug\CharVariable.exe
+C:\Documents and Settings\User\Desktop\proekti\Chapter2\CharVariable\bin\Debug\CharVariable.pdb
+C:\Documents and Settings\User\Desktop\proekti\Chapter2\CharVariable\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Desktop\Homeworks\Chapter2\Chapter2\CharVariable\obj\x86\Debug\CharVariable.exe
+C:\Documents and Settings\User\Desktop\Homeworks\Chapter2\Chapter2\CharVariable\obj\x86\Debug\CharVariable.pdb

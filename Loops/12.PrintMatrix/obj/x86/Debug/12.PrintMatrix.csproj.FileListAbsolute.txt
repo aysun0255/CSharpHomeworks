@@ -1,0 +1,5 @@
+C:\Documents and Settings\User\Desktop\Homeworks\Loops\12.PrintMatrix\bin\Debug\12.PrintMatrix.exe
+C:\Documents and Settings\User\Desktop\Homeworks\Loops\12.PrintMatrix\bin\Debug\12.PrintMatrix.pdb
+C:\Documents and Settings\User\Desktop\Homeworks\Loops\12.PrintMatrix\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Desktop\Homeworks\Loops\12.PrintMatrix\obj\x86\Debug\12.PrintMatrix.exe
+C:\Documents and Settings\User\Desktop\Homeworks\Loops\12.PrintMatrix\obj\x86\Debug\12.PrintMatrix.pdb
