@@ -1,0 +1,5 @@
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Homeworks\Chapter3\OperatorsAndExpressions\BitCheck\bin\Debug\BitCheck.exe.config
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Homeworks\Chapter3\OperatorsAndExpressions\BitCheck\bin\Debug\BitCheck.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Homeworks\Chapter3\OperatorsAndExpressions\BitCheck\bin\Debug\BitCheck.pdb
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Homeworks\Chapter3\OperatorsAndExpressions\BitCheck\obj\Debug\BitCheck.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Homeworks\Chapter3\OperatorsAndExpressions\BitCheck\obj\Debug\BitCheck.pdb

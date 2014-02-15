@@ -1,0 +1,5 @@
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Homeworks\Chapter3\OperatorsAndExpressions\RectangleArea\bin\Debug\RectangleArea.exe.config
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Homeworks\Chapter3\OperatorsAndExpressions\RectangleArea\bin\Debug\RectangleArea.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Homeworks\Chapter3\OperatorsAndExpressions\RectangleArea\bin\Debug\RectangleArea.pdb
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Homeworks\Chapter3\OperatorsAndExpressions\RectangleArea\obj\Debug\RectangleArea.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Homeworks\Chapter3\OperatorsAndExpressions\RectangleArea\obj\Debug\RectangleArea.pdb

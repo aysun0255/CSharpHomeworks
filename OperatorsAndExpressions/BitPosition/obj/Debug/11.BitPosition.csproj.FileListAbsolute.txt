@@ -1,0 +1,3 @@
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Homeworks\Chapter3\OperatorsAndExpressions\BitPosition\bin\Debug\BitPosition.exe.config
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Homeworks\Chapter3\OperatorsAndExpressions\BitPosition\obj\Debug\BitPosition.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Homeworks\Chapter3\OperatorsAndExpressions\BitPosition\obj\Debug\BitPosition.pdb

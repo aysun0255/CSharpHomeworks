@@ -1,0 +1,5 @@
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Homeworks\Chapter3\OperatorsAndExpressions\Circle\bin\Debug\Circle.exe.config
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Homeworks\Chapter3\OperatorsAndExpressions\Circle\obj\Debug\Circle.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Homeworks\Chapter3\OperatorsAndExpressions\Circle\obj\Debug\Circle.pdb
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Homeworks\Chapter3\OperatorsAndExpressions\Circle\bin\Debug\Circle.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Homeworks\Chapter3\OperatorsAndExpressions\Circle\bin\Debug\Circle.pdb

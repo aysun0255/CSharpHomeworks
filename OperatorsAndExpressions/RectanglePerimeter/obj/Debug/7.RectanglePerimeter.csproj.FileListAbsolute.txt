@@ -1,0 +1,1 @@
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Homeworks\Chapter3\OperatorsAndExpressions\RectanglePerimeter\bin\Debug\RectanglePerimeter.exe.config
