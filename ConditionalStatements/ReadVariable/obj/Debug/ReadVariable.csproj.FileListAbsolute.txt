@@ -1,0 +1,1 @@
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\ConditionalStatements\ReadVariable\bin\Debug\ReadVariable.exe.config

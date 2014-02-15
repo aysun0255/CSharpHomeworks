@@ -1,0 +1,6 @@
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\ConditionalStatements\10.BonusPoints\bin\Debug\10.BonusPoints.exe.config
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\ConditionalStatements\10.BonusPoints\bin\Debug\10.BonusPoints.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\ConditionalStatements\10.BonusPoints\bin\Debug\10.BonusPoints.pdb
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\ConditionalStatements\10.BonusPoints\obj\Debug\10.BonusPoints.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\ConditionalStatements\10.BonusPoints\obj\Debug\10.BonusPoints.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\ConditionalStatements\10.BonusPoints\obj\Debug\10.BonusPoints.pdb

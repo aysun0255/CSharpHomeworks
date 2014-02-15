@@ -1,0 +1,5 @@
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\ConditionalStatements\09.SubsetsWithSumZero\bin\Debug\09.SubsetsWithSumZero.exe.config
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\ConditionalStatements\09.SubsetsWithSumZero\bin\Debug\09.SubsetsWithSumZero.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\ConditionalStatements\09.SubsetsWithSumZero\bin\Debug\09.SubsetsWithSumZero.pdb
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\ConditionalStatements\09.SubsetsWithSumZero\obj\Debug\09.SubsetsWithSumZero.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\ConditionalStatements\09.SubsetsWithSumZero\obj\Debug\09.SubsetsWithSumZero.pdb

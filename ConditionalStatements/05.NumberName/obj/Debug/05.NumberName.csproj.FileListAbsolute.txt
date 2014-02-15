@@ -1,0 +1,6 @@
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\ConditionalStatements\05.NumberName\bin\Debug\05.NumberName.exe.config
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\ConditionalStatements\05.NumberName\bin\Debug\05.NumberName.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\ConditionalStatements\05.NumberName\bin\Debug\05.NumberName.pdb
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\ConditionalStatements\05.NumberName\obj\Debug\05.NumberName.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\ConditionalStatements\05.NumberName\obj\Debug\05.NumberName.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\ConditionalStatements\05.NumberName\obj\Debug\05.NumberName.pdb
