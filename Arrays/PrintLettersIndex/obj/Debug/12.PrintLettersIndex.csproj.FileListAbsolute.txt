@@ -1,0 +1,6 @@
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\PrintLettersIndex\bin\Debug\PrintLettersIndex.exe.config
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\PrintLettersIndex\obj\Debug\PrintLettersIndex.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\PrintLettersIndex\obj\Debug\PrintLettersIndex.pdb
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\PrintLettersIndex\bin\Debug\PrintLettersIndex.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\PrintLettersIndex\bin\Debug\PrintLettersIndex.pdb
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\PrintLettersIndex\obj\Debug\12.PrintLettersIndex.csprojResolveAssemblyReference.cache

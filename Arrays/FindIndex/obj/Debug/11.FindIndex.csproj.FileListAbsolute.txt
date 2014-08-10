@@ -1,0 +1,6 @@
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\FindIndex\bin\Debug\FindIndex.exe.config
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\FindIndex\bin\Debug\FindIndex.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\FindIndex\bin\Debug\FindIndex.pdb
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\FindIndex\obj\Debug\11.FindIndex.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\FindIndex\obj\Debug\FindIndex.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\FindIndex\obj\Debug\FindIndex.pdb

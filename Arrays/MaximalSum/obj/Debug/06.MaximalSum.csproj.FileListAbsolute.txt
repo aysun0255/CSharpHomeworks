@@ -1,0 +1,6 @@
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\MaximalSum\bin\Debug\MaximalSum.exe.config
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\MaximalSum\bin\Debug\MaximalSum.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\MaximalSum\bin\Debug\MaximalSum.pdb
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\MaximalSum\obj\Debug\06.MaximalSum.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\MaximalSum\obj\Debug\MaximalSum.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\MaximalSum\obj\Debug\MaximalSum.pdb

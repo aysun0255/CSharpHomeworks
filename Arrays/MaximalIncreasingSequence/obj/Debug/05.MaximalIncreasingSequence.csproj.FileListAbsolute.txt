@@ -1,0 +1,6 @@
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe.config
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.pdb
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.pdb
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\MaximalIncreasingSequence\obj\Debug\05.MaximalIncreasingSequence.csprojResolveAssemblyReference.cache

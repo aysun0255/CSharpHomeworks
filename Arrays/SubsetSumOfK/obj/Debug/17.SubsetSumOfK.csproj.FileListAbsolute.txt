@@ -1,0 +1,6 @@
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\SubsetSumOfK\bin\Debug\SubsetSumOfK.exe.config
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\SubsetSumOfK\bin\Debug\SubsetSumOfK.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\SubsetSumOfK\bin\Debug\SubsetSumOfK.pdb
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\SubsetSumOfK\obj\Debug\17.SubsetSumOfK.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\SubsetSumOfK\obj\Debug\SubsetSumOfK.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\SubsetSumOfK\obj\Debug\SubsetSumOfK.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\QuickSort\bin\Debug\QuickSort.exe.config
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\QuickSort\obj\Debug\QuickSort.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\QuickSort\obj\Debug\QuickSort.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\QuickSort\obj\Debug\QuickSort.pdb

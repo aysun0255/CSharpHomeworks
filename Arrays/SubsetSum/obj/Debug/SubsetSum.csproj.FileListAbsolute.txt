@@ -1,0 +1,1 @@
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\SubsetSum\bin\Debug\SubsetSum.exe.config

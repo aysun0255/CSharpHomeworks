@@ -1,0 +1,6 @@
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\MergeSort\bin\Debug\MergeSort.exe.config
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\MergeSort\bin\Debug\MergeSort.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\MergeSort\bin\Debug\MergeSort.pdb
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\MergeSort\obj\Debug\13.MergeSort.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\MergeSort\obj\Debug\MergeSort.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\MergeSort\obj\Debug\MergeSort.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe.config
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\MostFrequentNumber\bin\Debug\MostFrequentNumber.pdb
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\MostFrequentNumber\obj\Debug\09.MostFrequentNumber.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\MostFrequentNumber\obj\Debug\MostFrequentNumber.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\MostFrequentNumber\obj\Debug\MostFrequentNumber.pdb

@@ -1,0 +1,1 @@
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\CombinationsKDistinct\bin\Debug\CombinationsKDistinct.exe.config

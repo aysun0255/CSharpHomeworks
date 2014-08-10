@@ -1,0 +1,6 @@
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\SubsetSum\bin\Debug\SubsetSum.exe.config
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\SubsetSum\bin\Debug\SubsetSum.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\SubsetSum\bin\Debug\SubsetSum.pdb
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\SubsetSum\obj\Debug\16.SubsetSum.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\SubsetSum\obj\Debug\SubsetSum.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\SubsetSum\obj\Debug\SubsetSum.pdb

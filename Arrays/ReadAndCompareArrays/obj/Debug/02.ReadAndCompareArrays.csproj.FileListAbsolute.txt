@@ -1,0 +1,5 @@
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\ReadAndCompareArrays\bin\Debug\ReadAndCompareArrays.exe.config
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\ReadAndCompareArrays\bin\Debug\ReadAndCompareArrays.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\ReadAndCompareArrays\bin\Debug\ReadAndCompareArrays.pdb
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\ReadAndCompareArrays\obj\Debug\ReadAndCompareArrays.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\ReadAndCompareArrays\obj\Debug\ReadAndCompareArrays.pdb

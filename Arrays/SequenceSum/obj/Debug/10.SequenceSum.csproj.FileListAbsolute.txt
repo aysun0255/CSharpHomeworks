@@ -1,0 +1,6 @@
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\SequenceSum\bin\Debug\SequenceSum.exe.config
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\SequenceSum\bin\Debug\SequenceSum.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\SequenceSum\bin\Debug\SequenceSum.pdb
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\SequenceSum\obj\Debug\10.SequenceSum.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\SequenceSum\obj\Debug\SequenceSum.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\SequenceSum\obj\Debug\SequenceSum.pdb

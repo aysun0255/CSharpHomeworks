@@ -1,0 +1,6 @@
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\SelectionSort\obj\Debug\07.SelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\SelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\Ivan Nenkov\Desktop\CSharpProjects\Arrays\SelectionSort\obj\Debug\SelectionSort.pdb
